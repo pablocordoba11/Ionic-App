@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ionic Material
 
 [![Join the chat at https://gitter.im/zachsoft/Ionic-Material](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zachsoft/Ionic-Material?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -136,3 +137,6 @@ See [Milestones](https://github.com/zachsoft/ionic-material/milestones)
 3. Port animate.js with bezier curve adjustments to match "authentic motion" spec of Material Design.
 
 4. Bug fixes
+=======
+# Ionic-App
+>>>>>>> b3a00c3a2bac4db33cbfd52c71a76d1104c19f52
